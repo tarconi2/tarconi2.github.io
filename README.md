@@ -36,7 +36,7 @@ Personal website designed for Aygün Cengiz.
 
 ## Contact
 
-Ahmet Çetinkaya - [@ahmetctnky_txt](https://twitter.com/ahmetctnky_txt) - [ahmetcetinkaya7@outlook.com](mailto:ahmetcetinkaya7@outlook.com)
+Ahmet Çetinkaya - [ahmetcetinkaya.info](https://ahmetcetinkaya.info/)
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmet-cetinkaya)
 
